@@ -137,6 +137,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/PatientAidCUNT/" />
         <option value="https://192.168.18.150/svn/app/TeaMachineryManager/trunk/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
@@ -149,6 +150,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/PatientAidCUNT/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/" />
         <option value="https://192.168.18.150/svn/app/TeaMachineryManager/trunk/" />
