@@ -650,6 +650,10 @@
           <option name="url" value="https://github.com/rengwuxian/RxJavaSamples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nex3z/android-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
