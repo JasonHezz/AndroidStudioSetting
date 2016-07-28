@@ -726,6 +726,10 @@
           <option name="url" value="https://github.com/noties/Scrollable.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/4k3R/material-sharing-card.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
