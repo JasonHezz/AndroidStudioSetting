@@ -742,6 +742,10 @@
           <option name="url" value="http://120.26.209.208" />
           <option name="userName" value="huz" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pedrovgs/EffectiveAndroidUI.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
