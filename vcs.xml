@@ -774,6 +774,10 @@
           <option name="url" value="https://app.teamweek.com/#p/74bsmlifx44hbgrh3nfd" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yqritc/RecyclerView-FlexibleDivider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
