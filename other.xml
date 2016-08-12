@@ -137,7 +137,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk/app" />
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/finddoc/FindDoc/trunk/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_krzx/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_htzx/" />
@@ -151,6 +151,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk/app" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/finddoc/FindDoc/trunk/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_krzx/" />
