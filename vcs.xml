@@ -798,6 +798,10 @@
           <option name="url" value="https://github.com/JayFang1993/DropDownMenu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dongjunkun/DropDownMenu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
