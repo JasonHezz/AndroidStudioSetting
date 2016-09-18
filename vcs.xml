@@ -838,6 +838,10 @@
           <option name="url" value="https://github.com/devunwired/recyclerview-playground.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/moezbhatti/qksms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
