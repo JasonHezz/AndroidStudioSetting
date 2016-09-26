@@ -1,34 +1,4 @@
 <application>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-    <entry key="Square">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -77,73 +47,16 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="true" />
-    <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
-    <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
-    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
-    <filter>
-      <option name="PATTERN" value="com.sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.omg.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="sun.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="jdk.internal.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="junit.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.intellij.rt.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.yourkit.runtime.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.springsource.loaded.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-  </component>
   <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/finddoc/FindDoc/trunk/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_krzx/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_htzx/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/PatientAidCUNT/" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
+        <option value="https://192.168.0.103/svn/app/Doc/trunk" />
+        <option value="https://192.168.0.103/svn/app/QuanKeYi" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/TeamTask/app/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/PatientAid/app/cunt" />
         <option value="http://183.129.141.106:9000/svn/main" />
@@ -151,17 +64,6 @@
     </option>
     <option name="myTypedURLs">
       <list>
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/DoctorTeam/trunk/app" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/finddoc/FindDoc/trunk/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_krzx/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital_htzx/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/hospital/hospital/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/PatientAidCUNT/" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/" />
-        <option value="https://192.168.18.150/svn/app/TeaMachineryManager/trunk/" />
-        <option value="https://192.168.18.150/!/#app/view/head/TeaMachineryManager/trunk" />
-        <option value="http://183.129.141.106:9000/svn/main/androidApps/pat/tlzyy" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
         <option value="https://192.168.0.103/svn/app/Doc/trunk" />
         <option value="https://192.168.0.103/svn/app/QuanKeYi" />
@@ -173,18 +75,5 @@
       </list>
     </option>
     <option name="mySvnCommandLine" value="G:\TortoiseSVN\bin\svn.exe" />
-  </component>
-  <component name="SvnBranchMapperManager">
-    <option name="myMapping">
-      <map>
-        <entry key="https://192.168.0.103/svn/app/Doc/trunk">
-          <value>
-            <set>
-              <option value="H:\StudioProjects\svn\app\Doc" />
-            </set>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </application>

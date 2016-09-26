@@ -26,16 +26,13 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="H:/StudioProjects/Android-Material-Examples" value="4400975944851" />
-            <entry key="H:/StudioProjects/ArcAnimator" value="5867006997252" />
             <entry key="H:/StudioProjects/CharacterPickerView" value="5790552425372" />
+            <entry key="H:/StudioProjects/CommitAdapterLayout" value="7360978585754" />
+            <entry key="H:/StudioProjects/FloatingActionButton" value="7372554338308" />
             <entry key="H:/StudioProjects/PhotoView" value="5785744734532" />
-            <entry key="H:/StudioProjects/SimpleWeibo" value="14661424235030" />
-            <entry key="H:/StudioProjects/TeaMachineryManager" value="4401244231234" />
+            <entry key="H:/StudioProjects/RxBus" value="5890148658703" />
+            <entry key="H:/StudioProjects/TapTargetView" value="5898369671333" />
             <entry key="H:/StudioProjects/android-floating-action-button" value="7238220198021" />
-            <entry key="H:/StudioProjects/quankeyi.doc" value="4399226788829" />
-            <entry key="H:/StudioProjects/quankeyi.pat" value="4399430183969" />
-            <entry key="H:/StudioProjects/reark" value="7330672760111" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -77,9 +74,9 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="H:/StudioProjects/TeamManager" />
+        <property name="last_opened_file_path" value="H:/StudioProjects/Amity" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
       </component>
