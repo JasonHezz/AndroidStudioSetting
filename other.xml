@@ -54,6 +54,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/waibao/patient/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
         <option value="https://192.168.0.103/svn/app/Doc/trunk" />
         <option value="https://192.168.0.103/svn/app/QuanKeYi" />
@@ -64,6 +65,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/waibao/patient/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
         <option value="https://192.168.0.103/svn/app/Doc/trunk" />
         <option value="https://192.168.0.103/svn/app/QuanKeYi" />
