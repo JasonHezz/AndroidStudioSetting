@@ -48,12 +48,14 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
   </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/waibao/patient/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
         <option value="https://192.168.0.103/svn/app/Doc/trunk" />
         <option value="https://192.168.0.103/svn/app/QuanKeYi" />
@@ -64,6 +66,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/waibao/patient/trunk" />
         <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
         <option value="https://192.168.0.103/svn/app/Doc/trunk" />
         <option value="https://192.168.0.103/svn/app/QuanKeYi" />
