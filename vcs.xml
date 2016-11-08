@@ -510,6 +510,10 @@
           <option name="url" value="https://github.com/Yalantis/SearchFilter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JoaquimLey/avenging.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
