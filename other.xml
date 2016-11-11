@@ -81,4 +81,17 @@
     </option>
     <option name="mySvnCommandLine" value="G:\TortoiseSVN\bin\svn.exe" />
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://183.129.141.106:9000/svn/main/androidApps/SearchDoc/Myt/trunk">
+          <value>
+            <set>
+              <option value="H:\StudioProjects\Myt" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
