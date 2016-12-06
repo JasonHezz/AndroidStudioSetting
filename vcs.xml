@@ -538,6 +538,10 @@
           <option name="url" value="https://github.com/florent37/SingleDateAndDayPicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.coding.net" />
+          <option name="userName" value="JsonHezz" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\StudioProjects" />
