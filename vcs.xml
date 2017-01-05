@@ -598,8 +598,12 @@
           <option name="url" value="https://github.com/TR4Android/AppCompat-Extension-Library.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://183.129.141.106:9000/svn/main/androidApps/GuangJi/patient/trunk" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\StudioProjects" />
+    <option name="cloneParentDir" value="H:\StudioProjects\Guangji" />
   </component>
 </application>
