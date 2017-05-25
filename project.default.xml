@@ -1,84 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <resourceExtensions />
-        <wildcardResourcePatterns>
-          <entry name="!?*.java" />
-          <entry name="!?*.form" />
-          <entry name="!?*.class" />
-          <entry name="!?*.groovy" />
-          <entry name="!?*.scala" />
-          <entry name="!?*.flex" />
-          <entry name="!?*.kt" />
-          <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
-        </wildcardResourcePatterns>
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="false">
-            <processorPath useClasspath="true" />
-          </profile>
-        </annotationProcessing>
+      <component name="ProjectDictionaryState">
+        <dictionary name="JavaCoder" />
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="H:/StudioProjects/CharacterPickerView" value="5790552425372" />
-            <entry key="H:/StudioProjects/CommitAdapterLayout" value="7360978585754" />
-            <entry key="H:/StudioProjects/FloatingActionButton" value="7372554338308" />
-            <entry key="H:/StudioProjects/PhotoView" value="5785744734532" />
-            <entry key="H:/StudioProjects/RxBus" value="5890148658703" />
-            <entry key="H:/StudioProjects/TapTargetView" value="5898369671333" />
-            <entry key="H:/StudioProjects/android-floating-action-button" value="7238220198021" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Android Lint</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Probable bugsJava</id>
-              </State>
-              <State>
-                <id>RELAX NG</id>
-              </State>
-            </expanded-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.general" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="last_opened_file_path" value="H:/StudioProjects/Amity" />
-        <property name="android.project.structure.last.selected" value="SDK Location" />
-        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+        <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -138,7 +67,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -167,26 +96,10 @@
         </configuration>
       </component>
       <component name="SvnConfiguration">
-        <configuration>C:\Users\g\AppData\Roaming\Subversion</configuration>
+        <configuration>C:\Users\JavaCoder\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
