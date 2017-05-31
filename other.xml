@@ -1,0 +1,17 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/waibao/patient/trunk" />
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/Amity/trunk" />
+        <option value="https://192.168.0.103/svn/app/Doc/trunk" />
+        <option value="https://192.168.0.103/svn/app/QuanKeYi" />
+        <option value="https://192.168.1.110/svn/app/QuanKeYi" />
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/TeamTask/app/trunk" />
+        <option value="http://183.129.141.106:9000/svn/main/androidApps/PatientAid/app/cunt" />
+        <option value="http://183.129.141.106:9000/svn/main/mobileClient/hbZsApp" />
+        <option value="http://183.129.141.106:9000/svn/main" />
+      </list>
+    </option>
+  </component>
+</application>
